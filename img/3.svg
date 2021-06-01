@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   version="1.1"
+   style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;"
+   viewBox="0 0 312.87 317.45"
+   x="0px"
+   y="0px"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   id="svg14"
+   sodipodi:docname="3.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+     id="metadata18"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="0.74342413"
+     inkscape:cx="156.435"
+     inkscape:cy="158.72501"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg14" /><defs
+     id="defs4"><style
+       type="text/css"
+       id="style2">
+   
+    .fil0 {fill:black}
+   
+  </style></defs><g
+     id="g8"
+     style="fill:#f9f9f9"><path
+       class="fil0"
+       d="M-0 0l312.87 0 0 198.29 -127.01 0c0,5.35 0.55,9.58 -3.43,13.95l42.43 29.51c7.18,4.99 -0.42,15.93 -7.61,10.94l-51.99 -36.16c-6.87,0 -21.64,0.92 -27.6,-0.23l-52.32 36.39c-7.19,5 -14.79,-5.94 -7.61,-10.94l49.81 -34.64c-0.79,-2.7 -0.53,-5.99 -0.53,-8.81l-127.02 0 0 -198.29zm79.27 91.07c-8.09,6.39 -17.81,-5.91 -9.72,-12.3 50.81,-40.21 122.93,-40.27 173.78,-0.11 8.11,6.4 -1.62,18.72 -9.73,12.32 -45.3,-35.77 -109.06,-35.72 -154.33,0.09zm64.48 63.56c-9.62,3.61 -15.12,-11.02 -5.52,-14.64 11.11,-4.15 23.31,-4.42 34.58,-0.69 9.78,3.27 4.8,18.08 -4.93,14.84 -7.81,-2.61 -16.44,-2.39 -24.13,0.49zm-21.17 -22.26c-8.79,5.31 -16.87,-8.08 -8.06,-13.39 26.81,-16.17 60.74,-15.53 86.84,1.78 8.59,5.72 -0.11,18.77 -8.67,13.06 -21.11,-13.98 -48.43,-14.52 -70.11,-1.45zm-19.85 -22.14c-8.44,5.84 -17.38,-7 -8.89,-12.87 38.14,-26.16 88.55,-25.9 126.37,0.72 8.44,5.98 -0.67,18.72 -9.01,12.79 -32.48,-22.82 -75.74,-23.11 -108.47,-0.64zm196.94 74.85l0 -171.87 -286.46 0 0 171.87c95.5,0 190.96,0 286.46,0z"
+       id="path6"
+       style="fill:#f9f9f9" /></g><text
+     x="0"
+     y="268.96000000000004"
+     fill="#000000"
+     font-size="5px"
+     font-weight="bold"
+     font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"
+     id="text10">Created by Miza Bintang</text>
+<text
+     x="0"
+     y="273.96000000000004"
+     fill="#000000"
+     font-size="5px"
+     font-weight="bold"
+     font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"
+     id="text12">from the Noun Project</text>
+</svg>
